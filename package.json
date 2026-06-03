@@ -1,0 +1,9 @@
+{
+  "name": "enigma-ai-generated-memo-demo",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix enigma-business-brief",
+    "server": "npm run server --prefix enigma-business-brief",
+    "build": "npm run build --prefix enigma-business-brief"
+  }
+}
